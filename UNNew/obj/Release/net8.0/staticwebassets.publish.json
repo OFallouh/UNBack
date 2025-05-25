@@ -1,0 +1,39 @@
+{
+  "Version": 1,
+  "Hash": "yPtoKpv7WBSDG01hID54CYfyxK7/44DDAI3q6UR9sOw=",
+  "Source": "UNNew",
+  "BasePath": "_content/UNNew",
+  "Mode": "Default",
+  "ManifestType": "Publish",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "UNNew\\wwwroot",
+      "Source": "UNNew",
+      "ContentRoot": "C:\\Users\\hp\\Desktop\\Code\\UN\\UNNew\\wwwroot\\",
+      "BasePath": "_content/UNNew",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\hp\\Desktop\\Code\\UN\\UNNew\\wwwroot\\EmployeeFiles\\Wasim Ghadeer\\8b4f0c25-b317-4b14-9b13-9cdf4c592b65.csv",
+      "SourceId": "UNNew",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\hp\\Desktop\\Code\\UN\\UNNew\\wwwroot\\",
+      "BasePath": "_content/UNNew",
+      "RelativePath": "EmployeeFiles/Wasim Ghadeer/8b4f0c25-b317-4b14-9b13-9cdf4c592b65.csv",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\EmployeeFiles\\Wasim Ghadeer\\8b4f0c25-b317-4b14-9b13-9cdf4c592b65.csv"
+    }
+  ]
+}

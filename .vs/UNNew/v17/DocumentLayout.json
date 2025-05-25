@@ -1,0 +1,229 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hp\\Desktop\\Code\\UN\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{49D7C442-5DB4-4721-9D5F-34F81574F41F}|UNNew\\UNNew.csproj|c:\\users\\hp\\desktop\\code\\un\\unnew\\models\\unemp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49D7C442-5DB4-4721-9D5F-34F81574F41F}|UNNew\\UNNew.csproj|solutionrelative:unnew\\models\\unemp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49D7C442-5DB4-4721-9D5F-34F81574F41F}|UNNew\\UNNew.csproj|c:\\users\\hp\\desktop\\code\\un\\unnew\\repository\\services\\salarymanagmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49D7C442-5DB4-4721-9D5F-34F81574F41F}|UNNew\\UNNew.csproj|solutionrelative:unnew\\repository\\services\\salarymanagmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49D7C442-5DB4-4721-9D5F-34F81574F41F}|UNNew\\UNNew.csproj|c:\\users\\hp\\desktop\\code\\un\\unnew\\controllers\\salarymanagmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49D7C442-5DB4-4721-9D5F-34F81574F41F}|UNNew\\UNNew.csproj|solutionrelative:unnew\\controllers\\salarymanagmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49D7C442-5DB4-4721-9D5F-34F81574F41F}|UNNew\\UNNew.csproj|c:\\users\\hp\\desktop\\code\\un\\unnew\\repository\\interfaces\\isalarymanagmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49D7C442-5DB4-4721-9D5F-34F81574F41F}|UNNew\\UNNew.csproj|solutionrelative:unnew\\repository\\interfaces\\isalarymanagmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49D7C442-5DB4-4721-9D5F-34F81574F41F}|UNNew\\UNNew.csproj|c:\\users\\hp\\desktop\\code\\un\\unnew\\repository\\services\\unemployeemanagmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49D7C442-5DB4-4721-9D5F-34F81574F41F}|UNNew\\UNNew.csproj|solutionrelative:unnew\\repository\\services\\unemployeemanagmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49D7C442-5DB4-4721-9D5F-34F81574F41F}|UNNew\\UNNew.csproj|c:\\users\\hp\\desktop\\code\\un\\unnew\\controllers\\unemployeemanagmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49D7C442-5DB4-4721-9D5F-34F81574F41F}|UNNew\\UNNew.csproj|solutionrelative:unnew\\controllers\\unemployeemanagmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49D7C442-5DB4-4721-9D5F-34F81574F41F}|UNNew\\UNNew.csproj|c:\\users\\hp\\desktop\\code\\un\\unnew\\controllers\\contractmanagmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49D7C442-5DB4-4721-9D5F-34F81574F41F}|UNNew\\UNNew.csproj|solutionrelative:unnew\\controllers\\contractmanagmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49D7C442-5DB4-4721-9D5F-34F81574F41F}|UNNew\\UNNew.csproj|c:\\users\\hp\\desktop\\code\\un\\unnew\\helpers\\logfilterattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49D7C442-5DB4-4721-9D5F-34F81574F41F}|UNNew\\UNNew.csproj|solutionrelative:unnew\\helpers\\logfilterattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49D7C442-5DB4-4721-9D5F-34F81574F41F}|UNNew\\UNNew.csproj|c:\\users\\hp\\desktop\\code\\un\\unnew\\helpers\\filterhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49D7C442-5DB4-4721-9D5F-34F81574F41F}|UNNew\\UNNew.csproj|solutionrelative:unnew\\helpers\\filterhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49D7C442-5DB4-4721-9D5F-34F81574F41F}|UNNew\\UNNew.csproj|c:\\users\\hp\\desktop\\code\\un\\unnew\\models\\invoice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49D7C442-5DB4-4721-9D5F-34F81574F41F}|UNNew\\UNNew.csproj|solutionrelative:unnew\\models\\invoice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49D7C442-5DB4-4721-9D5F-34F81574F41F}|UNNew\\UNNew.csproj|c:\\users\\hp\\desktop\\code\\un\\unnew\\models\\salaryemployeecoo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49D7C442-5DB4-4721-9D5F-34F81574F41F}|UNNew\\UNNew.csproj|solutionrelative:unnew\\models\\salaryemployeecoo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49D7C442-5DB4-4721-9D5F-34F81574F41F}|UNNew\\UNNew.csproj|c:\\users\\hp\\desktop\\code\\un\\unnew\\models\\salarytran.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49D7C442-5DB4-4721-9D5F-34F81574F41F}|UNNew\\UNNew.csproj|solutionrelative:unnew\\models\\salarytran.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49D7C442-5DB4-4721-9D5F-34F81574F41F}|UNNew\\UNNew.csproj|c:\\users\\hp\\desktop\\code\\un\\unnew\\models\\coopo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49D7C442-5DB4-4721-9D5F-34F81574F41F}|UNNew\\UNNew.csproj|solutionrelative:unnew\\models\\coopo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 12,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UNEmployeeManagmentService.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\Code\\UN\\UNNew\\Repository\\Services\\UNEmployeeManagmentService.cs",
+              "RelativeDocumentMoniker": "UNNew\\Repository\\Services\\UNEmployeeManagmentService.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\Code\\UN\\UNNew\\Repository\\Services\\UNEmployeeManagmentService.cs",
+              "RelativeToolTip": "UNNew\\Repository\\Services\\UNEmployeeManagmentService.cs",
+              "ViewState": "AQIAAI4CAAAAAAAAAAAcwJ4CAABIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T11:23:57.372Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UNEmployeeManagmentController.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\Code\\UN\\UNNew\\Controllers\\UNEmployeeManagmentController.cs",
+              "RelativeDocumentMoniker": "UNNew\\Controllers\\UNEmployeeManagmentController.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\Code\\UN\\UNNew\\Controllers\\UNEmployeeManagmentController.cs",
+              "RelativeToolTip": "UNNew\\Controllers\\UNEmployeeManagmentController.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAxwCIAAABMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T11:23:50.817Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FilterHelper.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\Code\\UN\\UNNew\\Helpers\\FilterHelper.cs",
+              "RelativeDocumentMoniker": "UNNew\\Helpers\\FilterHelper.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\Code\\UN\\UNNew\\Helpers\\FilterHelper.cs",
+              "RelativeToolTip": "UNNew\\Helpers\\FilterHelper.cs",
+              "ViewState": "AQIAAB4CAAAAAAAAAAAwwC4CAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T12:30:28.745Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "LogFilterAttribute.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\Code\\UN\\UNNew\\Helpers\\LogFilterAttribute.cs",
+              "RelativeDocumentMoniker": "UNNew\\Helpers\\LogFilterAttribute.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\Code\\UN\\UNNew\\Helpers\\LogFilterAttribute.cs",
+              "RelativeToolTip": "UNNew\\Helpers\\LogFilterAttribute.cs",
+              "ViewState": "AQIAADAAAAAAAAAAAAA9wFsAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T12:30:28.861Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ISalaryManagmentService.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\Code\\UN\\UNNew\\Repository\\Interfaces\\ISalaryManagmentService.cs",
+              "RelativeDocumentMoniker": "UNNew\\Repository\\Interfaces\\ISalaryManagmentService.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\Code\\UN\\UNNew\\Repository\\Interfaces\\ISalaryManagmentService.cs",
+              "RelativeToolTip": "UNNew\\Repository\\Interfaces\\ISalaryManagmentService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwA0AAABnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T12:25:35.321Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SalaryManagmentService.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\Code\\UN\\UNNew\\Repository\\Services\\SalaryManagmentService.cs",
+              "RelativeDocumentMoniker": "UNNew\\Repository\\Services\\SalaryManagmentService.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\Code\\UN\\UNNew\\Repository\\Services\\SalaryManagmentService.cs",
+              "RelativeToolTip": "UNNew\\Repository\\Services\\SalaryManagmentService.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAA1wN8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T12:23:13.07Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SalaryManagmentController.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\Code\\UN\\UNNew\\Controllers\\SalaryManagmentController.cs",
+              "RelativeDocumentMoniker": "UNNew\\Controllers\\SalaryManagmentController.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\Code\\UN\\UNNew\\Controllers\\SalaryManagmentController.cs",
+              "RelativeToolTip": "UNNew\\Controllers\\SalaryManagmentController.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAowDIAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T12:22:41.987Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ContractManagmentController.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\Code\\UN\\UNNew\\Controllers\\ContractManagmentController.cs",
+              "RelativeDocumentMoniker": "UNNew\\Controllers\\ContractManagmentController.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\Code\\UN\\UNNew\\Controllers\\ContractManagmentController.cs",
+              "RelativeToolTip": "UNNew\\Controllers\\ContractManagmentController.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAQwCIAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T11:32:19.002Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Invoice.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\Code\\UN\\UNNew\\Models\\Invoice.cs",
+              "RelativeDocumentMoniker": "UNNew\\Models\\Invoice.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\Code\\UN\\UNNew\\Models\\Invoice.cs",
+              "RelativeToolTip": "UNNew\\Models\\Invoice.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T09:20:07.749Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "SalaryEmployeeCoo.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\Code\\UN\\UNNew\\Models\\SalaryEmployeeCoo.cs",
+              "RelativeDocumentMoniker": "UNNew\\Models\\SalaryEmployeeCoo.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\Code\\UN\\UNNew\\Models\\SalaryEmployeeCoo.cs",
+              "RelativeToolTip": "UNNew\\Models\\SalaryEmployeeCoo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T09:19:44.609Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "SalaryTran.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\Code\\UN\\UNNew\\Models\\SalaryTran.cs",
+              "RelativeDocumentMoniker": "UNNew\\Models\\SalaryTran.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\Code\\UN\\UNNew\\Models\\SalaryTran.cs",
+              "RelativeToolTip": "UNNew\\Models\\SalaryTran.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T09:19:34.314Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CooPo.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\Code\\UN\\UNNew\\Models\\CooPo.cs",
+              "RelativeDocumentMoniker": "UNNew\\Models\\CooPo.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\Code\\UN\\UNNew\\Models\\CooPo.cs",
+              "RelativeToolTip": "UNNew\\Models\\CooPo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T08:14:49.312Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UnEmp.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\Code\\UN\\UNNew\\Models\\UnEmp.cs",
+              "RelativeDocumentMoniker": "UNNew\\Models\\UnEmp.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\Code\\UN\\UNNew\\Models\\UnEmp.cs",
+              "RelativeToolTip": "UNNew\\Models\\UnEmp.cs",
+              "ViewState": "AQIAAI0AAAAAAAAAAAAUwJsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T08:11:47.045Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
