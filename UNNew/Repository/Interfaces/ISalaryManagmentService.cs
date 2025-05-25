@@ -12,6 +12,8 @@ namespace UNNew.Repository.Interfaces
         Task<ApiResponse<string>> CalculateSalary(UpdateSalaryDto updateSalaryDto);
         Task<ApiResponse<string>> AddDsa(AddDsaDto addDsaDto);
         Task<ApiResponse<List<SalaryDto>>> GetAllEmployeeSalaryAsync(FilterModel filterModel, int Id, int? ContractId);
+
+
         Task<ApiResponse<List<GetAllDsaDto>>> GetAllDsaByEmployeddId(int id, int? ContractId, FilterModel filterModel);
     }
 }
